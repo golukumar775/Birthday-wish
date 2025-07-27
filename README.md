@@ -1,6 +1,6 @@
 # Happy Birthday
 
-Website - [Happy Birthday](https://rishabh04-02.github.io/happy-birthday/)
+Website - [Happy Birthday](https://github.com/golukumar775/Birthday-wish.git
 
 An easy to deploy, Happy Birthday animation design TEMPLATE.
 
